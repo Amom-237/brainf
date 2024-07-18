@@ -16,7 +16,7 @@ int main(int argc, char *argv[]) {
     
     std::string path = argv[1];
 
-    // Yes i know i can interpret direcltly.
+    // Yes it is possible to interpret direcltly.
    std::vector<Token> tokens = Tokenizer(path);
 
     interpreter(tokens);
