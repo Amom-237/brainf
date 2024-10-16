@@ -3,6 +3,8 @@ A simple program for executing brainf*** scripts.
 
 > **⚠ Warning:** Avoid running untrusted scripts when using this interpreter, as it could lead to unintended behavior or security risks.
 
+This project waw created to learn basics of a compiler. 
+
 ### Usage
 
 ```
